@@ -5,7 +5,7 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 
 它一直是广大网友代理上网的优先选择对象，如果现在需要购买，只需要看这篇文章就够了，详细讲解了如何注册账号以及优惠购买教程。
 
-![搬瓦工机场优惠购买教程](https://github.com/jdnei/Just-My-Socks)
+[搬瓦工机场优惠购买教程](https://github.com/jdnei/Just-My-Socks)
 
 ---
 
