@@ -1,12 +1,11 @@
-# Just-My-Socks
-Just My Socks
+
 # 2026最新搬瓦工机场Just My Socks 注册购买教程内含优惠
 
 Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理机场。支持支付宝、Paypal 及银联卡付款，如果7天内不满意可随时退款，这个退款政策，也是官方对自己产品有信心的保证。使用高速CN2 及CN2 GIA 线路，特别是IP 被墙后会自动切换节点，保证了速度及稳定性。
 
 它一直是广大网友代理上网的优先选择对象，如果现在需要购买，只需要看这篇文章就够了，详细讲解了如何注册账号以及优惠购买教程。
 
-![搬瓦工机场优惠购买教程](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-home.png?raw=ture)
+![搬瓦工机场优惠购买教程](https://github.com/jdnei/Just-My-Socks)
 
 ---
 
@@ -25,7 +24,7 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 
 ### 官网界面预览
 
-![搬瓦工官方机场Just My Socks 官网](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-home.png)
+![搬瓦工官方机场Just My Socks 官网](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1691337430-justmysocks-official-website-2023-480x1024.jpg?raw=ture)
 
 ### 优势
 
@@ -94,15 +93,15 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 
 在上面的套餐列表选择合适的节点，点击优惠购买即可，如下图所示确认计费周期后即可添加到购物车。
 
-![搬瓦工官方机场Just My Socks 计费周期](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-billing-cycle.png)
+![搬瓦工官方机场Just My Socks 计费周期](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656621389-justmysocks-choose-billing-cycle-1024x683.jpg?raw=ture)
 
 ### 计费周期选择
 
-在 Choose Billing Cycle 下拉菜单选择购买的时间： `$xx.xx USD Annually` ，表示按年付款。
+在`Choose Billing Cycle`下拉菜单选择购买的时间： `$xx.xx USD Annually` ，表示按年付款。
 
 推荐按年付款，综合费用下来按年付款仅需付10个月的费用，可省下2个月的费用，同时再叠加使用优惠码，十分划算。
 
-然后点击 Continue 将所选择的套餐添加到购物车，如上图所示。
+然后点击`Continue`将所选择的套餐添加到购物车，如上图所示。
 
 ### 计费周期说明
 
@@ -119,21 +118,19 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 
 ### 优惠码信息
 
-在结算订单页面，在 Apply Promo Code 处使用Just My Socks 优惠码： `JMS9272283`
+在结算订单页面，在`Apply Promo Code`处使用Just My Socks 优惠码： `JMS9272283`
 
-使用此优惠码可享受5.2% 永久优惠，续费也可使用。
+使用此优惠码可享受5.2% 永久优惠，输入完优惠码后，点击`Validate Code`
 
-输入完优惠码后，点击 Validate Code
-
-![搬瓦工官方机场Just My Socks 优惠码输入界面](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-promo-code.png)
+![搬瓦工官方机场Just My Socks 优惠码输入界面](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656672396-justmysocks-apply-promo-code-1024x683.jpg?raw=ture)
 
 ### 优惠码结算
 
 如下图所示，这是已经使用了优惠码的，在价格那边显示了优惠了$5.14 及折扣后的金额$93.74。
 
-![搬瓦工机场优惠码](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-promo-code-applied.png)
+![搬瓦工机场优惠码](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656672486-justmysocks-apply-promo-code-success-1024x683.jpg?raw=ture)
 
-如果没什么问题，点击 Checkout 继续。
+如果没什么问题，点击`Checkout`继续。
 
 ---
 
@@ -141,17 +138,17 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 
 如果之前没有注册过账号，那么在这一个页面会提示你注册账号，参考下图填写，邮箱一定要写正确，要能收到账号激活链接，不然购买后不能使用。
 
-![搬瓦工官方机场Just My Socks 订单结算页面](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-checkout.png)
+![搬瓦工官方机场Just My Socks 订单结算页面](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656672553-justmysocks-checkout-768x1024.jpg?raw=ture)
 
-在上图中， Country 选项记得选择 China ，然后付款方式可选择 Alipay （支付宝）。
+在上图中， `Country` 选项记得选择 `China` ，然后付款方式可选择 `Alipay` （支付宝）。
 
-Join our mailing list 是官方的邮件列表，可定是获取最新的优惠信息等，默认是 NO ，即不接收此类信息。
+`Join our mailing list` 是官方的邮件列表，可定是获取最新的优惠信息等，默认是 `NO` ，即不接收此类信息。
 
-然后勾选 I have read and agree to the Terms of Service 。
+然后勾选` I have read and agree to the Terms of Service `。
 
-接着输入验证码，然后点击 Complete Order ，之后就会跳转到支付宝付款界面，扫描付款码完成付款即可！
+接着输入验证码，然后点击 `Complete Order` ，之后就会跳转到支付宝付款界面，扫描付款码完成付款即可！
 
-至此就完成了节点购买，留意邮箱中标题名为 Confirm Your Registration 的邮件，点击邮件中的链接进行账号激活。
+至此就完成了节点购买，留意邮箱中标题名为 `Confirm Your Registration` 的邮件，点击邮件中的链接进行账号激活。
 
 ---
 
@@ -161,15 +158,15 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 
 ### 可用节点列表
 
-打开Just My Socks 官网，在菜单中选择 Services > My Services ，就可以看到你购买的产品信息，列表中的Status 显示 Active 的，即为可用节点，如下图所示。
+打开Just My Socks 官网，在菜单中选择 `Services` > `My Services` ，就可以看到你购买的产品信息，列表中的`Status` 显示 `Active` 的，即为可用节点，如下图所示。
 
-![搬瓦工机场JustMySocks 可用节点列表](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-my-services.png)
+![搬瓦工机场JustMySocks 可用节点列表](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656672929-justmysocks-services-my-products-services-1024x768.jpg?raw=ture)
 
 ### 节点信息
 
-点击这个 Active 的套餐进去就可以看到套餐的节点配置信息了，如下图所示。
+点击这个 `Active` 的套餐进去就可以看到套餐的节点配置信息了，如下图所示。
 
-![搬瓦工机场JustMySocks 节点信息](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-service-detail.png)
+![搬瓦工机场JustMySocks 节点信息](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656673244-justmysocks-services-service-878x1024.jpg?raw=ture)
 
 如上图所示，显示了该节点的所有信息。
 
@@ -179,7 +176,7 @@ Join our mailing list 是官方的邮件列表，可定是获取最新的优惠�
 #### Billing Information
 这里能看到当前套餐的流量使用情况以及付款相关信息。
 
-其中 Counter resets monthly on day 16 – Los Angeles time zone 即说明每月的16号重置流量，根据付款的时间来确定，日期时间以美国洛杉矶时间为准。
+其中 `Counter resets monthly on day 16 – Los Angeles time zone` 即说明每月的16号重置流量，根据付款的时间来确定，日期时间以美国洛杉矶时间为准。
 
 #### Billing Requests
 这里可以进行一些关于此节点的操作请求，如下表所示。
@@ -201,17 +198,17 @@ Just My socks 一共支持手动配置节点、订阅地址方式配置节点、
 
 除非只能手动来配置节点，否则优先推荐使用订阅方式配置节点或使用链接或二维码方式配置节点，更加快捷方便，而且还不容易出错。
 
-在后台节点信息找到选项 Servers 选项，点击进去就能看到该节点的相关配置信息，如下图所示。
+在后台节点信息找到选项 `Servers` 选项，点击进去就能看到该节点的相关配置信息，如下图所示。
 
-![搬瓦工机场JustMySocks 节点账号及密码](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-servers-info.png)
+![搬瓦工机场JustMySocks 节点账号及密码](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656673000-justmysocks-services-servers-819x1024.jpg?raw=ture)
 
 #### 配置Shadowsocks 服务器
-找到 Server Type 为 Shadowsocks 的服务器行，该行显示的信息即为Shadowsocks 节点信息，其中 Encryption 为加密方式，在配置Shadowsocks 客户端填写的时候需要选择，务必选择正确，密码即为上图的 Shadowsocks Password 。
+找到 `Server Type` 为 Shadowsocks 的服务器行，该行显示的信息即为Shadowsocks 节点信息，其中 Encryption 为加密方式，在配置Shadowsocks 客户端填写的时候需要选择，务必选择正确，密码即为上图的 Shadowsocks Password 。
 
 配置Shadowsocks 相对来说比较简单，只需要服务器地址、加密方式、端口、密码，这四样就可以科学上网。
 
 #### 配置V2Ray 服务器
-找到 Server Type 为 V2Ray 的服务器行，该行显示的信息为V2Ray 节点信息，其中 Protocol 为传输协议，在配置V2Ray 客户端的时候也务必选择正确。
+找到 `Server Type` 为 V2Ray 的服务器行，该行显示的信息为V2Ray 节点信息，其中 `Protocol` 为传输协议，在配置V2Ray 客户端的时候也务必选择正确。
 
 配置V2Ray 需要的其他信息，看上图中V2Ray 开头的相关信息，用户ID 就是 V2Ray uuid ，额外ID（Alterid）即为 V2Ray Alt Id ，这里是 0 ，加密方式为 auto ，传输协议为 TCP ，伪装类型（type）即为V2Ray Camouflage，这里为 none 。
 
@@ -221,9 +218,9 @@ Just My socks 一共支持手动配置节点、订阅地址方式配置节点、
 
 ### 订阅地址方式配置节点
 
-Just My Socks 支持使用订阅地址方式来自动化添加节点配置信息，只要复制订阅链接地址就可以在相关客户端自动配置，省去手动配置的烦恼，如下图所示，在后台节点信息找到选项 Subscription 选项，这里显示 Application subscription 下面的一串网址就是订阅链接。
+Just My Socks 支持使用订阅地址方式来自动化添加节点配置信息，只要复制订阅链接地址就可以在相关客户端自动配置，省去手动配置的烦恼，如下图所示，在后台节点信息找到选项 `Subscription` 选项，这里显示 `Application subscription` 下面的一串网址就是订阅链接。
 
-![搬瓦工机场JustMySocks 订阅地址](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-subscription.png)
+![搬瓦工机场JustMySocks 订阅地址](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656676148-justmysocks-services-subscription-1024x853.jpg?raw=ture)
 
 点击Copy 按钮即可复制justmysocks订阅链接。
 
@@ -239,9 +236,9 @@ Just My Socks 支持使用订阅地址方式来自动化添加节点配置信息
 
 ### 链接或二维码方式配置节点
 
-在你购买完成节点后会为该套餐节点自动生成二维码信息，如相关客户端支持扫描二维码导入配置信息，就可以采用这种方法来配置节点，在后台节点信息找到选项 DNS Link + QR 选项，这个是使用域名作为服务器地址使用，推荐使用，点击进去就能看到链接和二维码，如下图所示。
+在你购买完成节点后会为该套餐节点自动生成二维码信息，如相关客户端支持扫描二维码导入配置信息，就可以采用这种方法来配置节点，在后台节点信息找到选项 `DNS Link` + `QR` 选项，这个是使用域名作为服务器地址使用，推荐使用，点击进去就能看到链接和二维码，如下图所示。
 
-![搬瓦工机场JustMySocks 节点二维码](https://jmsnode.com/wp-content/uploads/2022/09/justmysocks-dns-link-qr.png)
+![搬瓦工机场JustMySocks 节点二维码](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656676248-justmysocks-services-dnslink-qrcode-502x1024.jpg)
 
 #### Just My Socks 节点链接
 如上图所示，点击Copy 就可以复制节点链接，然后在相关客户端软件导入链接即可。
