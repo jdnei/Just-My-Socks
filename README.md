@@ -222,7 +222,7 @@ Just My Socks 支持使用订阅地址方式来自动化添加节点配置信息
 
 ![搬瓦工机场JustMySocks 订阅地址](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656676148-justmysocks-services-subscription-1024x853.jpg?raw=ture)
 
-点击Copy 按钮即可复制justmysocks订阅链接。
+点击`Copy` 按钮即可复制justmysocks订阅链接。
 
 然后在相关支持订阅方式配置节点的客户端粘贴此条订阅链接即可完成配置，在客户端添加完后需要进行更新订阅链接操作。
 
