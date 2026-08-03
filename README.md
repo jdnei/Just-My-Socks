@@ -116,7 +116,11 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 
 ## 优惠码结算订单
 
-### 优惠码信息
+### 优惠码/折扣码
+`使用此优惠码可享受5.2% 永久优惠`
+```bash
+JMS9272283
+```
 
 在结算订单页面，在`Apply Promo Code`处使用Just My Socks 优惠码： `JMS9272283`
 
@@ -125,6 +129,7 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 ![搬瓦工官方机场Just My Socks 优惠码输入界面](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656672396-justmysocks-apply-promo-code-1024x683.jpg?raw=ture)
 
 ### 优惠码结算
+
 
 如下图所示，这是已经使用了优惠码的，在价格那边显示了优惠了$5.14 及折扣后的金额$93.74。
 
