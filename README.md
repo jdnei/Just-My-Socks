@@ -12,16 +12,16 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 
 ## 官网
 
-搬瓦工官方机场Just My Socks 官网地址是：[https://justmysocks.net/](https://justmysocks.net/) （ 中国大陆无法访问 ）
+搬瓦工官方机场Just My Socks 官网地址是：[https://justmysocks.net/](https://to.iix.im/jms) （ 中国大陆无法访问 ）
 
 ### 官网地址
 
 由于某些原因，会导致官网地址不能访问，为此官方建立了几个镜像地址，方便不能访问的网友访问JustMySocks官网，同样可以注册购买，以下是所有的官网镜像列表，如官网地址不能访问，可用下面的官网镜像网址访问，所有的镜像数据都是互通的。
 
-* 官网备用1：[https://justmysocks1.net/](https://justmysocks1.net/)（ 中国大陆无法访问 ）
-* 官网备用2：[https://justmysocks2.net/](https://justmysocks2.net/)（ 中国大陆可以访问 ）
-* 官网备用3：[https://justmysocks3.net/](https://justmysocks3.net/)（ 中国大陆可以访问 ）
-* 官网备用4：[https://justmysocks5.net/](https://justmysocks5.net/)（ 中国大陆可以访问 ）
+* 官网备用1：[https://justmysocks1.net/](https://to.iix.im/jms)（ 中国大陆无法访问 ）
+* 官网备用2：[https://justmysocks2.net/](https://to.iix.im/jms)（ 中国大陆可以访问 ）
+* 官网备用3：[https://justmysocks3.net/](https://to.iix.im/jms)（ 中国大陆可以访问 ）
+* 官网备用4：[https://justmysocks5.net/](https://to.iix.im/jms)（ 中国大陆可以访问 ）
 
 ### 官网界面预览
 
@@ -54,23 +54,24 @@ Just My Socks 是知名高速线路VPS 服务商搬瓦工官方运营的代理�
 
 | 数据中心 | 套餐名 | 每月流量 | 月付价格 | 设备限制 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **洛杉矶** | LA 500 | 500 GB | $ 5.88 | 5 | [优惠购买]() |
-| **洛杉矶** | LA 1000 | 1 TB | $ 9.88 | 无限制 | [优惠购买]() |
-| **洛杉矶** | LA 5000 | 5 TB | $ 48.99 | 无限制 | [优惠购买]() |
-| **洛杉矶** | LA 10000 | 10 TB | $ 93.99 | 无限制 | [优惠购买]() |
-| **伦敦** | London 500 | 500 GB | $ 6.8 | 5 | [优惠购买]() |
-| **伦敦** | London 1000 | 1 TB | $ 11.29 | 无限制 | [优惠购买]() |
-| **香港** | HK CMI+NTT Plan 500 | 500 GB | $ 8.99 | 5 | [优惠购买]() |
-| **香港** | HK CMI+NTT Plan 1000 | 1 TB | $ 14.90 | 无限制 | [优惠购买]() |
-| **香港** | HK CMI+NTT Plan 5000 | 5 TB | $ 59.99 | 无限制 | [优惠购买]() |
-| **东京** | Tokyo 100 | 100 GB | $ 29.99 | 3 | [优惠购买]() |
-| **东京** | Tokyo 500 | 500 GB | $ 135.99 | 5 | [优惠购买]() |
-| **东京** | Tokyo 1000 | 1 TB | $ 239.00 | 无限制 | [优惠购买]() |
-| **香港** | Hong Kong 100 | 100 GB | $ 34.99 | 3 | [优惠购买]() |
-| **香港** | Hong Kong 500 | 500 GB | $ 149.99 | 5 | [优惠购买]() |
-| **香港** | Hong Kong 1000 | 1000 GB | $ 279.99 | 无限制 | [优惠购买]() |
-| **香港** | IPLC HK 300 V2 | 300 GB | $ 21.00 | 3 | [优惠购买]() |
-| **香港** | IPLC HK 1000 V2 | 1 TB | $ 59.00 | 无限制 | [优惠购买]() |
+| **洛杉矶** | LA 500 | 500 GB | $ 5.88 | 5 | [优惠购买](https://to.iix.im/jms02) |
+| **洛杉矶** | LA 1000 | 1 TB | $ 9.88 | 无限制 | [优惠购买](https://to.iix.im/jms03) |
+| **洛杉矶** | LA 5000 | 5 TB | $ 48.99 | 无限制 | [优惠购买](https://to.iix.im/jms04) |
+| **洛杉矶** | LA 10000 | 10 TB | $ 93.99 | 无限制 | [优惠购买](https://to.iix.im/jms23) |
+| **伦敦** | London 500 | 500 GB | $ 6.8 | 5 | [优惠购买](https://to.iix.im/jms12) |
+| **伦敦** | London 1000 | 1 TB | $ 11.29 | 无限制 | [优惠购买](https://to.iix.im/jms14) |
+| **香港** | HK CMI+NTT Plan 500 | 500 GB | $ 8.99 | 5 | [优惠购买](https://to.iix.im/jms13) |
+| **香港** | HK CMI+NTT Plan 1000 | 1 TB | $ 14.90 | 无限制 | [优惠购买](https://to.iix.im/jms15) |
+| **香港** | HK CMI+NTT Plan 5000 | 5 TB | $ 59.99 | 无限制 | [优惠购买](https://to.iix.im/jms24) |
+| **东京** | Tokyo 100 | 100 GB | $ 29.99 | 3 | [优惠购买](https://to.iix.im/jms05) |
+| **东京** | Tokyo 500 | 500 GB | $ 135.99 | 5 | [优惠购买](https://to.iix.im/jms06) |
+| **东京** | Tokyo 1000 | 1 TB | $ 239.00 | 无限制 | [优惠购买](https://to.iix.im/jms22) |
+| **东京** | Tokyo 5000 | 5 TB | $ 1135.00 | 无限制 | [优惠购买](https://to.iix.im/jms26) |
+| **香港** | Hong Kong 100 | 100 GB | $ 34.99 | 3 | [优惠购买](https://to.iix.im/jms07) |
+| **香港** | Hong Kong 500 | 500 GB | $ 149.99 | 5 | [优惠购买](https://to.iix.im/jms08) |
+| **香港** | Hong Kong 1000 | 1000 GB | $ 279.99 | 无限制 | [优惠购买](https://to.iix.im/jms11) |
+| **香港** | IPLC HK 300 V2 | 300 GB | $ 21.00 | 3 | [已下架]() |
+| **香港** | IPLC HK 1000 V2 | 1 TB | $ 59.00 | 无限制 | [已下架]() |
 
 ### 套餐说明
 
