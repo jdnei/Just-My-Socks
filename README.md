@@ -243,7 +243,7 @@ Just My Socks 支持使用订阅地址方式来自动化添加节点配置信息
 
 在你购买完成节点后会为该套餐节点自动生成二维码信息，如相关客户端支持扫描二维码导入配置信息，就可以采用这种方法来配置节点，在后台节点信息找到选项 `DNS Link` + `QR` 选项，这个是使用域名作为服务器地址使用，推荐使用，点击进去就能看到链接和二维码，如下图所示。
 
-![搬瓦工机场JustMySocks 节点二维码](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656676248-justmysocks-services-dnslink-qrcode-502x1024.jpg)
+![搬瓦工机场JustMySocks 节点二维码](https://github.com/jdnei/Just-My-Socks/blob/main/jms/1656676248-justmysocks-services-dnslink-qrcode-502x1024.jpg?raw=true)
 
 #### Just My Socks 节点链接
 如上图所示，点击Copy 就可以复制节点链接，然后在相关客户端软件导入链接即可。
