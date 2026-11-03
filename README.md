@@ -1,3 +1,5 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
 # 2026最新搬瓦工机场Just My Socks 注册购买教程内含优惠
 
