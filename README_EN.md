@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Just My Socks VPN by BandwagonHost: 2026 Registration and Purchase Guide with Discounts
+# Just My Socks VPN by BandwagonHost: 2026 Registration and Purchase Guide with Discounts(Updated November 11, 2026)
 
 Just My Socks is an official VPN service operated by BandwagonHost, a well-known VPS provider specializing in high-speed network connections.
 
